@@ -16,18 +16,9 @@ these are the findings that i consider i have founded on my own .
 
 №	Date	Protocol	Findings	Report	Type	Platform	Details	
 
-6	Sep 2024	Flayer	High - 0, Medium - 0		NFT	Sherlock
-
 5	Jun 2024	Velocimeter	High - 1 Medium - 2 high		DEX	Sherlock
 
-4	Jun 2024	Size	High - 0, Medium - 0		Credit marketplace	Code4rena
-
 3	Apr 2024	Noya	High - 1 , Medium - 3  Yield optimization	Code4rena	🏅4th
-
-2	Apr 2024	Zivoe	High - 0, Medium - 0		RWA Credit	Sherlock
-
-1	Mar 2024	AxisFinance	High - 0, Medium - 0		Auction	Sherlock	
-
 
 Links to my own findings being part of the team :
 
