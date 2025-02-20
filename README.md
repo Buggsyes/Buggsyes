@@ -22,6 +22,7 @@ These are my results from competitions I've participated as part of a team.
 
 Links to my findings being part of the team :
 NOYA :
+
 https://github.com/code-423n4/2024-04-noya-findings/issues/854 
 
 https://github.com/code-423n4/2024-04-noya-findings/issues/340
