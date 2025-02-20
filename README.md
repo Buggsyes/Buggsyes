@@ -9,7 +9,8 @@ Skills
 Area	Details
 Solidity / EVM	I've already audited handful of protocols of various types. 
 
-Contests
+Contests 
+
 These are my results from competitions I've participated as part of a team.
 the audits were a shared effort and its hard to pinpoint which findings belong to whom ,
 these are the findings that i consider i have founded on my own .
