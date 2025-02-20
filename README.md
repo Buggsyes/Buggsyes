@@ -16,7 +16,7 @@ these are the findings that i consider i have founded on my own .
 
 №	Date	Protocol	Findings	Report	Type	Platform	Details	
 
-5	Jun 2024	Velocimeter	High - 1 Medium - 2 high		DEX	Sherlock
+5	Jun 2024	Velocimeter	High - 1 Medium - 2 	DEX	Sherlock
 
 3	Apr 2024	Noya	High - 1 , Medium - 3  Yield optimization	Code4rena	🏅4th
 
