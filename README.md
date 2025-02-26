@@ -17,6 +17,7 @@ findings that im sure are found by me .
 
 
 №	Date	Protocol	Findings	Report	Type	Platform	Details
+
 7	Sep 2024	[Symbiotic](https://audits.sherlock.xyz/contests/206?filter=results)	High - Medium - 	Undisclosed	Restaking	Cantina	
 
 6	Sep 2024	[Flayer](https://audits.sherlock.xyz/contests/468?filter=results)	High -  Medium - 	NFT	Sherlock	
